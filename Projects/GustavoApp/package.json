@@ -1,0 +1,23 @@
+{
+  "name": "gustavoapp",
+  "version": "1.0.0",
+  "description": "A software for schedule consults (for dentist)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fohtorme/Personal.git"
+  },
+  "keywords": [
+    "dentist",
+    "gustavo"
+  ],
+  "author": "Jonas Rafael Duarte dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fohtorme/Personal/issues"
+  },
+  "homepage": "https://github.com/Fohtorme/Personal#readme"
+}

@@ -1,0 +1,39 @@
+Definitions:
+ * Gustavo wants:
+    * Schedule the client consult
+      * Name
+      * Reason
+      * Date/Time
+      * Observation
+      * Attachment (picture, documents)
+    * Notify a week before and a day about the consult (parameters)
+    * Mobile application
+    * Google calendar interface is not good for Gustavo
+
+
+-------TELA 1----------
+[CONSULTAS]
+-----------------------
+
+-------TELA 2----------
+20/06/2018
+17:00 JONAS  SISO
+18:00 MICHEL APARELHO
+...
+...
+...
+---------RODAPÉ--------
+[Nova][Filtros][Voltar]
+-----------------------
+
+
+-------TELA 3----------
+Nome:
+Motivo:
+Data/hora:
+Observação
+Anexos-----------------
+Foto 1
+Documento 2
+[Adicionar]
+-----------------------
